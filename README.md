@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm currently pursuing my Master's in Computer Science at the University of Massachusetts, Amherst. I did my B.Tech in Computer Science and Engineering from NIT Tiruchirappalli.
-I'm currently working at P95 AI as a Founding Engineer, building the action layer of an autonomous AI SRE platform.
+I'm currently working at P95.AI as a Founding Engineer, building the coding agent of an autonomous AI SRE platform.
 I co-authored a paper on energy-efficient multi-robot path planning that was published at IEEE/RSJ IROS 2025. 
